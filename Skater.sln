@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.28803.352
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Skater.Common", "Skater.Common\Skater.Common.csproj", "{BC377FCB-706A-416D-93EC-1EDDFBB1B15A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skater.Web", "Skater.Web\Skater.Web.csproj", "{96B13ED0-BFAB-4701-B244-C0BAEF25BE57}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skater.Web", "Skater.Web\Skater.Web.csproj", "{5112BA4C-EF47-47DB-8546-C977E1928ABD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{BC377FCB-706A-416D-93EC-1EDDFBB1B15A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC377FCB-706A-416D-93EC-1EDDFBB1B15A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC377FCB-706A-416D-93EC-1EDDFBB1B15A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{96B13ED0-BFAB-4701-B244-C0BAEF25BE57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{96B13ED0-BFAB-4701-B244-C0BAEF25BE57}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{96B13ED0-BFAB-4701-B244-C0BAEF25BE57}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{96B13ED0-BFAB-4701-B244-C0BAEF25BE57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5112BA4C-EF47-47DB-8546-C977E1928ABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5112BA4C-EF47-47DB-8546-C977E1928ABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5112BA4C-EF47-47DB-8546-C977E1928ABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5112BA4C-EF47-47DB-8546-C977E1928ABD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
